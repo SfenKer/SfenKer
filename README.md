@@ -13,6 +13,7 @@
 <div>
   <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png">
   <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png">
+  <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_clion_macos_bigsur_icon_190059.png">
   <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
   <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png">
 </div>
