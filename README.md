@@ -4,7 +4,6 @@
 <div>
   <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java">
   <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cpp_icon_130670.png" alt="C/C++">
-  <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript">
 </div>
 
 ### Tools:
