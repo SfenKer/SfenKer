@@ -16,7 +16,7 @@
 ![CMake](.github/assets/img/tools/cmake.png)
 ![Git](.github/assets/img/tools/git.png)
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:github-stats-->
 **I'm a Night 🦉** 
 
 ```text
@@ -46,4 +46,4 @@ rust-essential           3 mins              ██████████░�
 ```
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:github-stats-->
