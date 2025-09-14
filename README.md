@@ -17,16 +17,5 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
-📊 **Weekly Coding Statistics** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   0 secs              ███████████████████░░░░░░   74.36 % 
-Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-
-🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:github-stats-->
