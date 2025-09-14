@@ -1,11 +1,11 @@
 ## Hello There 👋
 
-**💻 Programming Languages**
+💻 **Programming Languages**
 
 ![Java](.github/assets/img/languages/java.png)
 ![C++](.github/assets/img/languages/cpp.png)
 
-**🛠️ Tools**
+🛠️ **Tools**
 
 ![IntelliJ IDEA](.github/assets/img/tools/intellij_idea.png)
 ![CLion](.github/assets/img/tools/clion.png)
@@ -29,3 +29,10 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:github-stats-->
+
+📞 **Contact**
+
+<pre>
+✈️ Telegram: <a href="https://t.me/SfenKer">@SfenKer</a>
+📧 Email: <a href="mailto:sfenker@eversi.de">sfenker@eversi.de</a>
+</pre>
