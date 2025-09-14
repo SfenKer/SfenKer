@@ -17,19 +17,6 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
-📅 **Weekly Commit Activity** 
-
-```text
-Monday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Thursday                 78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-```
-
-
 📊 **Weekly Coding Statistics** 
 
 ```text
