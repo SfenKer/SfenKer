@@ -21,10 +21,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.83 % 
+CMake                    1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+C                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+C/C                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+CMakeLists.txt           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
