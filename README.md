@@ -17,17 +17,7 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-🌆 Daytime                183 commits         ███████████░░░░░░░░░░░░░░   43.26 % 
-🌃 Evening                164 commits         ██████████░░░░░░░░░░░░░░░   38.77 % 
-🌙 Night                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+📊 **Weekly Coding Statistics** 
 
 ```text
 💬 Programming Languages: 
