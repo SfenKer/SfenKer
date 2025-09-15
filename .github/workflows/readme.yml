@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '15 22 * * *' # 22:15 UTC (00:00 CET)
   workflow_dispatch:
 jobs:
   update-readme:
