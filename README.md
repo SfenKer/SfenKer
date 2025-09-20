@@ -21,6 +21,21 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
+📊 **Weekly Coding Statistics** 
+
+```text
+💬 Programming Languages: 
+C/C++                    29 hrs 37 mins      ██████████████████████░░░   89.40 % 
+CMake                    1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Assembly                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+🔥 Editors: 
+CLion                    32 hrs 35 mins      █████████████████████████   98.35 % 
+IntelliJ IDEA            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+```
+
 
 <!--END_SECTION:github-stats-->
 
