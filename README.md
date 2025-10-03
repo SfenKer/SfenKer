@@ -21,6 +21,22 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
+📊 **Weekly Coding Statistics** 
+
+```text
+💬 Programming Languages: 
+C/C++                    3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
+TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.87 % 
+Python                   1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Kotlin                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+
+🔥 Editors: 
+CLion                    4 hrs 41 mins       ██████████████░░░░░░░░░░░   56.37 % 
+WebStorm                 3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
+IntelliJ IDEA            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+```
+
 
 <!--END_SECTION:github-stats-->
 
