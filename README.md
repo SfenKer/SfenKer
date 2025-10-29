@@ -25,13 +25,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C/C++                    23 mins             ███████████████████░░░░░░   74.41 % 
+CMake                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Java                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    27 mins             ██████████████████████░░░   88.04 % 
+IntelliJ IDEA            3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+macOS                      27 mins             ██████████████████████░░░   88.04 % 
+Windows                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 
 
