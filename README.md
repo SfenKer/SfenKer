@@ -25,11 +25,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 min               ███████████████░░░░░░░░░░   58.34 % 
-Kotlin                   1 min               ██████████░░░░░░░░░░░░░░░   41.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
