@@ -25,10 +25,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    1 min               █████████████████████████   100.00 % 
 ```
 
 
