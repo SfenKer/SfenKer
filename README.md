@@ -21,6 +21,17 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
+📊 **Weekly Coding Statistics** 
+
+```text
+💬 Programming Languages: 
+C/C++                    5 mins              █████████████████████░░░░   82.38 % 
+CMake                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+
+🔥 Editors: 
+CLion                    6 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:github-stats-->
 
