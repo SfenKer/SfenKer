@@ -25,10 +25,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     43 mins             █████████████████████████   100.00 % 
+Java                     16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            43 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
 ```
 
 
