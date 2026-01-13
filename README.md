@@ -25,10 +25,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C/C++                    10 mins             █████████████████████░░░░   85.46 % 
+Assembly                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    12 mins             █████████████████████████   100.00 % 
 ```
 
 
