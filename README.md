@@ -25,12 +25,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     46 mins             ██████████████████░░░░░░░   71.74 % 
-Kotlin                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Java                     2 hrs 7 mins        █████████████████░░░░░░░░   68.19 % 
+Kotlin                   46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Access Widener           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 4 mins         █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
