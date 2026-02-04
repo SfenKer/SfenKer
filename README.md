@@ -21,6 +21,20 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
+📊 **Weekly Coding Statistics** 
+
+```text
+💬 Programming Languages: 
+Java                     4 hrs 25 mins       █████████████████████░░░░   82.25 % 
+Kotlin                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Access Widener           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+
+🔥 Editors: 
+IntelliJ IDEA            5 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:github-stats-->
 
