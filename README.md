@@ -3,15 +3,12 @@
 💻 **Programming Languages**
 
 ![Java](.github/assets/img/languages/java.png)
-![C++](.github/assets/img/languages/cpp.png)
-![JavaScript](.github/assets/img/languages/javascript.png)
-![TypeScript](.github/assets/img/languages/typescript.png)
+![C/C++](.github/assets/img/languages/cpp.png)
 
 🛠️ **Tools**
 
 ![IntelliJ IDEA](.github/assets/img/tools/intellij_idea.png)
 ![CLion](.github/assets/img/tools/clion.png)
-![WebStorm](.github/assets/img/tools/webstorm.png)
 ![Datagrip](.github/assets/img/tools/datagrip.png)
 ![Visual Studio Code](.github/assets/img/tools/visual_studio_code.png)
 ![Gradle](.github/assets/img/tools/gradle.png)
