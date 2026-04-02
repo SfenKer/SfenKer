@@ -22,11 +22,11 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 49 mins        ████████████████████████░   97.01 % 
-Kotlin                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Java                     1 hr 33 mins        ████████████████████████░   96.53 % 
+Kotlin                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 52 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
