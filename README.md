@@ -18,6 +18,17 @@
 ![Git](.github/assets/img/tools/git.png)
 
 <!--START_SECTION:github-stats-->
+📊 **Weekly Coding Statistics** 
+
+```text
+💬 Programming Languages: 
+Java                     2 hrs 27 mins       ███████████████████████░░   93.45 % 
+Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+
+🔥 Editors: 
+IntelliJ IDEA            2 hrs 37 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:github-stats-->
 
