@@ -22,13 +22,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     56 mins             ██████████████████████░░░   89.67 % 
-Gradle                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
