@@ -22,10 +22,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            29 mins             █████████████████████████   100.00 % 
 ```
 
 
