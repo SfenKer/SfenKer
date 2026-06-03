@@ -22,10 +22,12 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 36 mins        █████████████████████████   100.00 % 
+Java                     1 hr 38 mins        ███████████████████████░░   91.47 % 
+Groovy                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 36 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 
