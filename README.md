@@ -21,6 +21,19 @@ I'm a 21 year old software engineer from Poland. I've been creating software in 
 ![Adobe Illustrator](.github/assets/img/tools/illustrator.png)
 
 <!--START_SECTION:github-stats-->
+📊 **Weekly Coding Statistics** 
+
+```text
+💬 Programming Languages: 
+Java                     7 hrs               ████████████████████████░   94.68 % 
+Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Class Tweaker            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+IntelliJ IDEA            7 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:github-stats-->
 
