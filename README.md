@@ -25,12 +25,13 @@ I'm a 21 year old software engineer from Poland. I've been creating software in 
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 40 mins        █████████████████████░░░░   84.88 % 
-Kotlin                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     11 hrs 18 mins      ██████████████████████░░░   88.47 % 
+Kotlin                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 58 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 
