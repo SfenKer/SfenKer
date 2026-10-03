@@ -1,5 +1,5 @@
 ### Hello There 👋
-I'm a 21 year old software engineer from Poland. I've been creating software in Java for 7 years, and in C/C++ for 3 years, most of this software is closed-source.
+<tbd>
 
 💻 **Programming Languages**
 
