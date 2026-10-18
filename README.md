@@ -29,7 +29,7 @@ Java                     3 hrs 30 mins       ███████████�
 Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 35 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
