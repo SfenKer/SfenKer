@@ -21,19 +21,6 @@
 ![Adobe Illustrator](.github/assets/img/tools/illustrator.png)
 
 <!--START_SECTION:github-stats-->
-📊 **Weekly Coding Statistics** 
-
-```text
-💬 Programming Languages: 
-Java                     5 hrs 45 mins       ███████████████████████░░   93.99 % 
-Kotlin                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-IntelliJ IDEA            6 hrs 7 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:github-stats-->
 
