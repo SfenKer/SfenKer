@@ -25,10 +25,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
