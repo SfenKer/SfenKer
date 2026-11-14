@@ -25,10 +25,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 57 mins       ████████████████████████░   94.55 % 
+Kotlin                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Class Tweaker            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
