@@ -25,12 +25,12 @@
 
 ```text
 💬 Programming Languages: 
-Java                     16 hrs 14 mins      ███████████████████████░░   93.67 % 
-Kotlin                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Class Tweaker            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Java                     19 hrs 27 mins      ████████████████████████░   94.52 % 
+Kotlin                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Class Tweaker            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 20 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            20 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
