@@ -25,10 +25,13 @@
 
 ```text
 💬 Programming Languages: 
-Java                     16 mins             █████████████████████████   100.00 % 
+Java                     58 mins             █████████████████████░░░░   82.88 % 
+spring.factories         7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 
